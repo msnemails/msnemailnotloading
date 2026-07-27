@@ -5,7 +5,7 @@ How to Fix MSN Email Not Loading?
 
 .. image:: https://img.shields.io/badge/Get%20Help-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
-   :align: left side
+   :align: Center
    :target: https://getchatsupport.net/
    :alt: Login Now Button
 
